@@ -1,3 +1,5 @@
+![ColorEncoder Preview](ColorEncoderImg.png)
+
 # ColorEncoder
 
 ColorEncoder is a Python-based application that converts images into height maps based on color channel contributions. It also generates histograms of pixel values from the height map for analysis.
